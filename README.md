@@ -1,4 +1,4 @@
-#Hi there, I'm Flávio José 👋
+Hi there, I'm Flávio José 👋
 
 - 🔭 I’m currently working on GiGAVIDA
 - 🌱 I’m currently learning about ReactJS
