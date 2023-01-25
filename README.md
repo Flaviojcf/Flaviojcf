@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" /></a>
 </p>
 
-   <a href="www.linkedin.com/in/flávio-jcosta">
+   <a href="https://www.linkedin.com/in/flávio-jcosta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
    <a href="https://stackoverflow.com/users/18368570/fl%c3%81vio-jose-da-costa-filho" target="_blank">
