@@ -28,7 +28,7 @@
   <a href="https://www.javascript.com/" target="_blank">
     <img  src="https://img.shields.io/badge/Javascript-F7DF22?style=for-the-badge&logo=Javascript&logoColor=white">
   </a>
-
+	<br/>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img  src="https://img.shields.io/badge/Typescript-0077B5?style=for-the-badge&logo=Typescript&logoColor=white">
   </a>
