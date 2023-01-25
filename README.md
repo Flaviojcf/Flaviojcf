@@ -32,23 +32,23 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img  src="https://img.shields.io/badge/Typescript-0077B5?style=for-the-badge&logo=Typescript&logoColor=white">
   </a>
-
+<br/>
   <a href="https://reactjs.org/" target="_blank"> 
     <img  src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=white">
   </a>
-
+<br/>
   <a href="https://nextjs.org/" target="_blank"> 
     <img  src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=NEXT.JS&logoColor=white">
   </a>
-
+<br/>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img  src="https://img.shields.io/badge/CSS-163256?style=for-the-badge&logo=css3&logoColor=white">
   </a>
-
+<br/>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img  src="https://img.shields.io/badge/HTML-DD4B25?style=for-the-badge&logo=html5&logoColor=white">
   </a>
-
+<br/>
    <a href="https://nodejs.org/en/" target="_blank">
     <img  src="https://img.shields.io/badge/NODEJS-026E00?style=for-the-badge&logo=Node.Js&logoColor=white">
   </a>
