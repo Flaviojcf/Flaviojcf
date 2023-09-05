@@ -52,6 +52,10 @@
    <a href="https://nodejs.org/en/" target="_blank">
     <img  src="https://img.shields.io/badge/NODEJS-026E00?style=for-the-badge&logo=Node.Js&logoColor=white">
   </a>
+  <br/>
+    <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
+    <img  src="https://img.shields.io/badge/.net-blue?logo=c#">
+  </a>
 
   
 
