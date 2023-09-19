@@ -18,7 +18,7 @@
 
 - 👋 Hi there, I'm Flávio José
 - 😄 Pronouns: He/Him
-- 💼 I'm an electronic engineering student
+- 💼 I'm a full stack developer
 - 💬 Talk to me about freelancing opportunities in software engineering
 - 👯 I’m looking to collaborate on backend and frontend software engineering projects
 
