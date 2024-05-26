@@ -46,7 +46,11 @@
   </a>
   <br/>
     <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
-    <img  src="https://img.shields.io/badge/dotnet-logo=dotnet">
+    <img  src="https://img.shields.io/badge/DotNet-purple?style=for-the-badge&logo=DotNET&logoColor=white">
+  </a>
+    <br/>
+    <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
+    <img  src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=azure&logoColor=white">
   </a>
 
   
