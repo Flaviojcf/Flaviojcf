@@ -64,7 +64,6 @@
 <h2> Github Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
   <br/>
   <p align="start">
-   <img src="https://github-readme-stats.vercel.app/api?username=flaviojcf&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviojcf&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
   <br/>
   </p>
