@@ -41,20 +41,12 @@
     <img  src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=NEXT.JS&logoColor=white">
   </a>
 <br/>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img  src="https://img.shields.io/badge/CSS-163256?style=for-the-badge&logo=css3&logoColor=white">
-  </a>
-<br/>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img  src="https://img.shields.io/badge/HTML-DD4B25?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-<br/>
    <a href="https://nodejs.org/en/" target="_blank">
     <img  src="https://img.shields.io/badge/NODEJS-026E00?style=for-the-badge&logo=Node.Js&logoColor=white">
   </a>
   <br/>
     <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
-    <img  src="https://img.shields.io/badge/.net-blue?logo=c#">
+    <img  src="https://img.shields.io/badge/dotnet-logo=dotnet">
   </a>
 
   
