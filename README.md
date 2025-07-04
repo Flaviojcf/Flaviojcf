@@ -1,65 +1,71 @@
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<h1> Hello < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" />
+  </a>
 </p>
 
-   <a href="https://www.linkedin.com/in/flávio-jcosta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-   <a href="https://stackoverflow.com/users/18368570/fl%c3%81vio-jose-da-costa-filho" target="_blank">
-    <img  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>
-   <a href="mailto:flaviojcostafilho@gmail.com" target="_blank">
-    <img  src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/flávio-jcosta" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://stackoverflow.com/users/18368570/fl%c3%81vio-jose-da-costa-filho" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+</a>
+<a href="mailto:flaviojcostafilho@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
 
-- 👋 Hi there, I'm Flávio José
-- 😄 Pronouns: He/Him
-- 💼 I'm a full stack developer
-- 💬 Talk to me about freelancing opportunities in software engineering
-- 👯 I’m looking to collaborate on backend and frontend software engineering projects
+---
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+🎯 Full Stack Developer  
+📍 Based in Recife, Brazil  
+🚀 Passionate about building scalable solutions and modern architectures  
+🎓 Postgraduate in Software and .NET Architecture  
+📌 Experience in finance, retail, and healthcare domains  
+
+---
+
+<h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
+
+<a href="https://dotnet.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white">
+</a>
+<a href="https://angular.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</a>
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</a>
 
 
-  <a href="https://www.javascript.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/Javascript-F7DF22?style=for-the-badge&logo=Javascript&logoColor=white">
-  </a>
-	<br/>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img  src="https://img.shields.io/badge/Typescript-0077B5?style=for-the-badge&logo=Typescript&logoColor=white">
-  </a>
-<br/>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img  src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=white">
-  </a>
-<br/>
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img  src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=NEXT.JS&logoColor=white">
-  </a>
-<br/>
-   <a href="https://nodejs.org/en/" target="_blank">
-    <img  src="https://img.shields.io/badge/NODEJS-026E00?style=for-the-badge&logo=Node.Js&logoColor=white">
-  </a>
-  <br/>
-    <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
-    <img  src="https://img.shields.io/badge/DotNet-purple?style=for-the-badge&logo=DotNET&logoColor=white">
-  </a>
-    <br/>
-    <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=azure&logoColor=white">
-  </a>
+---
 
-  
+<h2>Certifications <img src="https://img.icons8.com/color/48/certificate.png" width="28px"> </h2>
 
-<br/>
-<br/>
-<h2> Github Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-  <br/>
-  <p align="start">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviojcf&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
-  <br/>
-  </p>
+<a href="https://learn.microsoft.com/en-us/certifications/exams/az-900/" target="_blank">
+  <img src="https://img.shields.io/badge/AZ--900-Microsoft_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</a><br/>
+
+<a href="https://learn.microsoft.com/en-us/certifications/exams/ai-900/" target="_blank">
+  <img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-8A2BE2?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</a><br/>
+
+<a href="https://learn.microsoft.com/en-us/certifications/exams/dp-900/" target="_blank">
+  <img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-000080?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</a><br/>
+
+<a href="https://skills.github.com/certifications/github-foundations/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Foundations-000000?style=for-the-badge&logo=github&logoColor=white">
+</a><br/>
+
+<a href="https://github.com/features/copilot" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Copilot-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
