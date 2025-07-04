@@ -61,11 +61,11 @@
   <img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-000080?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </a><br/>
 
-<a href="https://skills.github.com/certifications/github-foundations/" target="_blank">
+<a href="https://education.github.com/experiences/foundations_certificate" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Foundations-000000?style=for-the-badge&logo=github&logoColor=white">
 </a><br/>
 
-<a href="https://github.com/features/copilot" target="_blank">
+<a href="https://examregistration.github.com/certification/COPILOT" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Copilot-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
