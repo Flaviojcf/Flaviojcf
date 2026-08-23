@@ -33,5 +33,6 @@ I enjoy designing clean architectures, creating developer tools and automating t
 - Microsoft Certified: Azure Fundamentals — AZ-900
 - Microsoft Certified: Azure AI Fundamentals — AI-900
 - Microsoft Certified: Azure Data Fundamentals — DP-900
+- Microsoft Certified: Azure AI - AI-901
 - GitHub Foundations — GH 900 
 - GitHub Copilot — GH 300
