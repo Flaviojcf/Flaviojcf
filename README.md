@@ -7,10 +7,6 @@ I design clean architectures, create developer tools and automate the path from 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-flaviojcf-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviojcf/)
 
-## 🚀 Featured project
-
-[**dotnet-template**](https://github.com/Flaviojcf/dotnet-template) is a `dotnet new` template pack for Clean Architecture APIs, Vertical Slice APIs and background workers. It includes optional database and Kafka integrations and starter projects for unit, integration and functional tests.
-
 ## 🧰 Tech stack
 
 **Backend** — `.NET` · `C#` · `ASP.NET Core` · `REST APIs` · `Clean Architecture` · `Vertical Slice`<br>
